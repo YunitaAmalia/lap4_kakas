@@ -56,7 +56,11 @@ body {
     color: white;
     padding: 20px;
 }
-
+.class2 {
+    background-color: rgb(196, 213, 231);
+    color: white;
+    padding: 20px;
+}
 
 .class3 {
     background-color: rgb(160, 221, 190);
